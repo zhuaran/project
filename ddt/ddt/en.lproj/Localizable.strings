@@ -1,0 +1,47 @@
+/* 
+  Localizable.strings
+  ddt
+
+  Created by wyg on 15/11/5.
+  Copyright © 2015年 Light. All rights reserved.
+*/
+CFBundleDisplayName="贷易通";
+
+
+"base_url" = "http://www.123dyt.com";
+
+//jsondata={"mobile":"15136216190","pwd":"111","token":"15136216190(!)*^*1446701200"
+//用户注册 参数：jsondata
+"url_register" = "/mydyt/web_service.php?doc=regsin";
+
+//登录 参数：jsondata
+"url_login" = "/mydyt/web_service.php?doc=login";
+
+//登录 参数：jsondata
+"url_usericon" = "/mydyt/web_service.php?doc=adduserpic";
+
+//同行
+"url_tongh_list" = "/mydyt/web_service.php?doc=gettonghang";
+
+//公司名片列表
+"url_company_list" = "/mydyt/web_service.php?doc=getcompany";
+//个人信息完善
+"url_adduserinfo" = "/mydyt/web_service.php?doc=adduserinfo";
+//设置简历
+ "url_addjianli" = "/mydyt/web_service.php?doc=addjianli";
+//发布交流会
+"url_addmeeting" = "/mydyt/web_service.php?doc=addmeeting";
+//添加公司资料
+"url_addcompany" = "/mydyt/web_service.php?doc=addcompany";
+//意见反馈
+"url_addsay" = "/mydyt/web_service.php?doc=addsay";
+//找回密码
+"url_findpwd" = "/mydyt/web_service.php?doc=findpwd";
+//我的收藏(单子)
+"url_getbookfill" = "/mydyt/web_service.php?doc=getbookfill";
+//我的收藏(同行)
+"url_getbookth" = "/mydyt/web_service.php?doc=getbookth";
+//我的收藏(公司)
+"url_getbookcom" = "/mydyt/web_service.php?doc=getbookcom";
+//个人中心（我的单子）
+"url_getmyfill" = "/mydyt/web_service.php?doc=getmyfill";
